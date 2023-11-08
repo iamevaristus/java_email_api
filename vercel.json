@@ -2,8 +2,7 @@
   "builds": [
     {
       "src": "/",
-      "use": "@vercel/build-jvm",
-      "publish": "/target/emailApi-0.0.1-SNAPSHOT.jar"
+      "use": "@vercel/build-jvm"
     }
   ]
 }
