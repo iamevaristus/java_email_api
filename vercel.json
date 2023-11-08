@@ -3,7 +3,6 @@
     {
       "src": "/",
       "use": "@vercel/build-jvm",
-      "cmd": "mvn package",
       "publish": "/target/emailApi-0.0.1-SNAPSHOT.jar"
     }
   ]
